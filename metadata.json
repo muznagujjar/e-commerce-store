@@ -1,0 +1,6 @@
+{
+  "name": "Zariya Couture | Luxury Pakistani Apparel",
+  "description": "Luxury Pakistani designer clothing featuring ready-to-wear prêt, embroidered festive lawn, bespoke formals, interactive size guides, real-time TCS/Leopards order tracking, and secure payment gateway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
